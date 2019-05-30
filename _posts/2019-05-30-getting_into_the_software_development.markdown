@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "** Getting Into the Software Development  **"
-date:       2019-05-30 12:38:41 +0000
+date:       2019-05-30 08:38:42 -0400
 permalink:  getting_into_the_software_development
 ---
 
